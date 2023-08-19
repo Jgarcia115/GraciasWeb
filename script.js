@@ -1,7 +1,7 @@
 
 
-// Adds JavaScript note at the bottom
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
+// Adds JavaScript note at the bottom of page
+// const h2 = document.createElement("h2");
+// h2.textContent = "This content added by JavaScript";
 
-document.querySelector("body").appendChild(h2);
+// document.querySelector("body").appendChild(h2);
